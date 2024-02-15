@@ -8,6 +8,7 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 
 1. **Getting Started with TypeScript**: [Badge]([badge-link](https://learn.microsoft.com/api/achievements/share/en-us/hannakulikowska/QDAPSSBE?sharingId=D035CDB343F03AE7))
 2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/hannakulikowska/WACAVURN?sharingId=D035CDB343F03AE7)
+3. **Implement Interfaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/hannakulikowska/CWTNXK79?sharingId=D035CDB343F03AE7)
 
 
 
@@ -15,3 +16,4 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 
 1.  In the first module, I learned about TypeScript, its installation `npm install typescript`, generating TypeScript configuration files with `tsc --init`, configuring tsconfig.json, and compiling .ts files using `tsc`.
 2.  In Module 02, I learned that TypeScript allows adding static types to JavaScript code, with all types being subtypes of a top type known as the **any** type. Additionally, I gained insights into **primitive types** like boolean, number, string, void, including null, and undefined, as well as **object types** such as class, interface, array, and literal types.
+3.  In Module 03, I delved into TypeScript **interfaces**, learning how to use them to define and describe object types, parameterize types, compose new types, declare and instantiate interfaces, extend existing interfaces, and declare interfaces with custom array types.
