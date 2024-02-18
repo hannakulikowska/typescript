@@ -1,4 +1,4 @@
-# "Build JavaScript applications using TypeScript" from Microsoft
+# ["Build JavaScript applications using TypeScript" from Microsoft](https://learn.microsoft.com/api/achievements/share/en-us/hannakulikowska/PTZN8JT4?sharingId=D035CDB343F03AE7)
 
 ## My TypeScript Journey: Earned Badges 
 
@@ -13,7 +13,7 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 5. **Declare and instantiate classes in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/hannakulikowska/WACAVURN?sharingId=D035CDB343F03AE7)
 6. **Define generics in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/hannakulikowska/3XL4FAEH?sharingId=D035CDB343F03AE7)
 7. **Access external libraries from TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/hannakulikowska/8R6DQRKW?sharingId=D035CDB343F03AE7)
-
+8. **Organize code using TypeScript namespaces**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/hannakulikowska/UF54ENN3?sharingId=D035CDB343F03AE7)
 
 
 ### Reflections
@@ -25,3 +25,4 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 5.  In Module 05, I learned how to use TypeScript **classes** to define object shapes, declare and instantiate classes, apply access modifiers and static properties, extend classes, and ensure class shape with **interfaces**, gaining insight into when to use interfaces versus classes for defining object structures.
 6.  In Module 06, I gained proficiency in identifying use cases for **generics**, defining generic functions, interfaces, and classes, and implementing generic constraints, enhancing my ability to write flexible and reusable code in TypeScript.
 7.  In Module 07, I acquired knowledge on organizing TypeScript code using **modules** and **importing external type libraries**.
+8.  In Module 08, I gained understanding about **namespaces** in TypeScript, including their purpose, implementation in single-file and multi-file scenarios, and the design considerations for choosing between namespaces and modules in project organization.
